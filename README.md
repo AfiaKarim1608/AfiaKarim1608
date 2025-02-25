@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @AfiaKarim1608
+![image](https://github.com/user-attachments/assets/3f7bbc83-85af-4f74-9670-bfc9a5cd632e)
+
+- <h1 align="center">Hi 👋, I am Afia Karim </h1>
 - 👨‍💻 I am a passionate Machine Learning Programmer
 - 📊 Experienced in Supervised & Unsupervised Learning, Statistical Analysis, and Model Training & Evaluation.
 - 🎨 Skilled in Frontend Develpoment and adept at using Figma for intuitive UI/UX design.
