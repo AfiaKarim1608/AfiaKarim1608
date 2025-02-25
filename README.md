@@ -2,7 +2,7 @@
 - 👨‍💻 I am a passionate Machine Learning Programmer
 - 📊 Experienced in Supervised & Unsupervised Learning, Statistical Analysis, and Model Training & Evaluation.
 - 🎨 Skilled in Frontend Develpoment and adept at using Figma for intuitive UI/UX design.
-- 
+
 
 
 <p align="left">
@@ -27,10 +27,5 @@
 
   <!-- Services -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-
-  <!-- Technical Subjects -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="OS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" alt="DBMS" width="40" height="40"/>
 </p>
-an click the Preview link to take a look at your changes.
---->
+
