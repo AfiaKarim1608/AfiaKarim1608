@@ -30,7 +30,7 @@
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfiaKarim1608&layout=compact&theme=black&card_width=450)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfiaKarim1608&layout=compact&theme=dark&card_width=450)
 
 
 
